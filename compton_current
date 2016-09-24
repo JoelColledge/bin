@@ -1,0 +1,1 @@
+compton --backend glx -i 0.85 -f -I 0.15 --no-fading-openclose &
